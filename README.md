@@ -102,7 +102,6 @@ The dashboard provides a detailed overview of sales trends, customer demographic
   
 This integration makes the platform versatile and engaging for a broader audience.
 ![image](https://github.com/user-attachments/assets/840ff670-ee8c-4957-8a2e-3835d70fae3b)
-![image](https://github.com/user-attachments/assets/a8058262-e214-430e-9a86-d5e4cdbda3d3)
 ![Screenshot 2024-11-28 103736](https://github.com/user-attachments/assets/fd0f0606-300b-4900-b965-ae39dfa4fd82)
 ![Screenshot 2024-11-28 103945](https://github.com/user-attachments/assets/1d6958e2-d22e-4ffc-bed8-6226d7513329)
 ![Screenshot 2024-11-28 103955](https://github.com/user-attachments/assets/95dfcade-d6eb-44a2-82e1-ca9ed4161b36)
